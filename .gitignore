@@ -1,0 +1,38 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Training outputs, checkpoints, and generated submissions
+outputs/
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+*.pickle
+submission.csv
+solution.csv
+*_submission.csv
+
+# Generated homework artifacts
+*_HW3_code.zip
+*_HW3_report.pdf
