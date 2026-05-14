@@ -1,3 +1,9 @@
+# Group: 515513_07
+# Members:
+# 112652030 呂泰廷 
+# 112652027 吳瑞傑 
+# 111652043 郭宗睿
+
 import argparse
 import csv
 from pathlib import Path
