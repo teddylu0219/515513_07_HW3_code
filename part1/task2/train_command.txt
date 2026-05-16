@@ -1,0 +1,1 @@
+python train.py --data data/train --output-dir outputs/task2_train --checkpoint outputs/task2_train/task2_model.pkl --test-data data --submission submission.csv --preset single --classifier logreg --band-set mu_beta_high60_90 --csp-pairs 3 --time-window 1.0,4.0 --c-values 0.01,0.03,0.1,0.3,1,3,10 --seed 42
